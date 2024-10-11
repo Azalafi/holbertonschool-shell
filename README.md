@@ -1,3 +1,2 @@
 # holbertonschool-shell
 
-Salut
